@@ -8,7 +8,7 @@ Con esta herramienta podrás llevar un control detallado de ingresos, gastos, ah
 
 [http://finanzashogar.com/](http://finanzashogar.pablogarciajc.com/)
 
-| ![Imagen 1](https://pablogarciajc.com/wp-content/uploads/2025/07/sistema_finanzas_hogar1.webp) | ![Imagen 2](https://pablogarciajc.com/wp-content/uploads/2025/07/sistema_finanzas_hogar5.webp) |
+| ![Imagen 1](https://pablogarciajc.com/wp-content/uploads/2025/09/sistema-de-finanzas-para-el-hogar-11_11.webp) | ![Imagen 2](https://pablogarciajc.com/wp-content/uploads/2025/09/sistema-de-finanzas-para-el-hogar-44_11.webp) |
 |-----------|-----------|
 
 ## ¿Qué funcionalidades ofrece el Sistema de Finanzas de Hogar?
