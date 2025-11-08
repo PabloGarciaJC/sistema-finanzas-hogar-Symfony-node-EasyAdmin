@@ -1,6 +1,6 @@
 # Sistema de Finanzas para el Hogar (Symfony + Node.js + EasyAdmin)
 
-El **Sistema de Finanzas de Hogar** es una aplicación desarrollada con **Symfony**, utilizando **EasyAdmin** para la gestión del panel de administración y **Node.js + Webpack Encore** para la compilación de assets (JS, CSS, Sass).  
+El **Sistema de Finanzas de Hogar** es una aplicación desarrollada con **Symfony**, utilizando **EasyAdmin** para la gestión del panel de administración y **Node.js + Webpack Encore** para la compilación de assets (JS, CSS).  
 
 Está diseñada para ayudarte a administrar tus finanzas personales y familiares de forma sencilla y segura. Con esta herramienta podrás llevar un control detallado de ingresos, gastos, ahorros y metas financieras, todo a través de una interfaz intuitiva y funcionalidades prácticas que facilitan la administración de tu economía día a día.
 
