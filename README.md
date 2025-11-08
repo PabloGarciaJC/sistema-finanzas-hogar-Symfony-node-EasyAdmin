@@ -1,4 +1,4 @@
-# Sistema de Finanzas de Hogar
+# Sistema de Finanzas para el Hogar (Symfony + node + EasyAdmin)
 
 El **Sistema de Finanzas de Hogar** es una aplicación desarrollada con el paquete **EasyAdmin** para **Symfony**, diseñada para ayudarte a administrar tus finanzas personales y familiares de forma sencilla y segura.
 
